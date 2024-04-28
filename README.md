@@ -7,3 +7,11 @@ Whether you're building web applications, mobile apps, or automating tasks with 
 Hello! I'm Arslan😎, and I'm thrilled to be your instructor for this course. With over 2 years of experience in Flutter mobile app development, I've had the opportunity to work on a wide range of exciting projects and enhance my skills in building robust and user-friendly applications.
 My passion for teaching and sharing knowledge has led me to create this repository, where you'll find a collection of code examples, exercises, and projects to help you grasp the fundamentals of Dart and excel in Flutter development. I believe in a hands-on approach to learning, and I'll provide you with practical examples and best practices to ensure you have a solid foundation in these technologies.
 
+
+## Contact Me
+
+LinkedIn:https://www.linkedin.com/in/arslan4546/
+GitHub:https://github.com/Arslan4546
+Facebook:https://www.Facebook.com/Arslan4546
+Instagram:https://www.instagram.com/arslantariq4546
+Email: arslantariq4546@gmail.com
